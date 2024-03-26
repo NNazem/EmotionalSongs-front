@@ -1,0 +1,63 @@
+{
+  "name": "emotional-songs",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.11.3",
+    "@emotion/styled": "^11.11.0",
+    "@fontsource/roboto": "^5.0.8",
+    "@heroicons/react": "^2.1.1",
+    "@hookform/resolvers": "^3.3.0",
+    "@mui/joy": "^5.0.0-beta.22",
+    "@mui/material": "^5.15.4",
+    "@nextui-org/react": "^2.2.9",
+    "@react-icons/all-files": "^4.1.0",
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "axios": "^1.5.1",
+    "bootstrap": "^5.3.2",
+    "framer-motion": "^10.18.0",
+    "mdb-react-ui-kit": "^6.2.0",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.8.0",
+    "react-dom": "^18.2.0",
+    "react-hook-form": "^7.48.2",
+    "react-hot-toast": "^2.4.1",
+    "react-icons": "^4.12.0",
+    "react-query": "^3.39.3",
+    "react-router-dom": "^6.17.0",
+    "react-scripts": "^5.0.1",
+    "recharts": "^2.10.4",
+    "styled-components": "^6.1.8",
+    "web-vitals": "^2.1.4",
+    "yup": "^1.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  }
+}
